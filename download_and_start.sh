@@ -6,8 +6,8 @@ cd /home/jovyan/work
 # even if you're only cloning
 export GIT_COMMITTER_NAME=anonymous
 export GIT_COMMITTER_EMAIL=anon@localhost
-git clone https://github.com/ivanbara/AICourse.git
+git clone https://github.com/ivanbara/AICourse.git exercises
 
 
-pip install scikit-learn, numpy, scipy, svgwrite, pandas
+pip install sklearn numpy scipy svgwrite pandas
 rm download_and_start.sh
