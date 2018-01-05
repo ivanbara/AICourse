@@ -12,4 +12,4 @@ pip install sklearn numpy scipy svgwrite pandas
 rm download_and_start.sh
 cd basics
 rm download_and_start.sh
-rm readme.md
+rm README.md
