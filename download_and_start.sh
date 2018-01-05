@@ -10,3 +10,4 @@ git clone https://github.com/ivanbara/AICourse.git
 
 
 pip install scikit-learn, numpy, scipy, svgwrite, pandas
+rm download_and_start.sh
