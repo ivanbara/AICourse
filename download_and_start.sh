@@ -10,3 +10,5 @@ git clone https://github.com/ivanbara/AICourse.git exercises
 
 pip install sklearn numpy scipy svgwrite pandas
 rm download_and_start.sh
+cd exercises
+rm download_and_start.sh
