@@ -9,6 +9,8 @@ export GIT_COMMITTER_EMAIL=anon@localhost
 
 pip install sklearn numpy scipy svgwrite pandas
 wget "https://github.com/potassco/clingo/releases/download/v5.2.2/clingo-5.2.2-linux-x86_64.tar.gz"
-tar -xzf clingo-5.2.2-linux-x86_64.tar.gz -C /clingo
+tar -xzf clingo-5.2.2-linux-x86_64.tar.gz -C ~/clingo
+
+rm clingo-5.2.2-linux-x86_64.tar.gz
 rm download_and_start.sh
 
