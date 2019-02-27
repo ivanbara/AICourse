@@ -10,9 +10,9 @@ export GIT_COMMITTER_EMAIL=anon@localhost
 git clone https://github.com/ivanbara/AICourse.git
 
 pip install sklearn numpy scipy svgwrite pandas pymc3
+rm AICourse/README.md
+rm AICourse/download_and_start.sh
 rm download_and_start.sh
-cd AICourse
-rm README.md
-rm download_and_start.sh
+
 
 
