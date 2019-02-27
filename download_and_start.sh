@@ -7,6 +7,8 @@ cd /home/jovyan/work
 export GIT_COMMITTER_NAME=anonymous
 export GIT_COMMITTER_EMAIL=anon@localhost
 
+git clone https://github.com/csc-training/spark-sql.git
+
 pip install sklearn numpy scipy svgwrite pandas pymc3
 rm download_and_start.sh
 
