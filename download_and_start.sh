@@ -11,4 +11,5 @@ git clone https://github.com/ivanbara/AICourse.git
 
 pip install sklearn numpy scipy svgwrite pandas pymc3
 rm download_and_start.sh
+rm AIcourse/README.md
 
