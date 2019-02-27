@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Script that downloads the code for doing the Artificial Intelligence course exercises
-cd /home/jovyan/work
+cd /home/jovyan/
 
 # git reflog requires a name and email if user is not in passwd
 # even if you're only cloning
