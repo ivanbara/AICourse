@@ -12,7 +12,8 @@ pip install svgwrite pymc3 hiddenlayer pytorch-pretrained-bert
 	
 rm PythonPlayground/README.md
 rm PythonPlayground/download_and_start.sh
-rm download_and_start.sh
+rm PythonPlayground/download_and_start.bash
+rm download_and_start.bash
 	
 	
 	
